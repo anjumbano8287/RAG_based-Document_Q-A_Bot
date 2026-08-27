@@ -1,5 +1,6 @@
 # RAG_based-Document_Q-A_Bot
 Its a simple question/Answer bot . you can ask any question while uploading any document and this is built using rag pipeline mainly . 
+project live demo : https://ragbased-documentq-abot-evna3abv8pnngvzqu6rh5r.streamlit.app/
 
 ## structure and buiding 
 For building this bot you must have gemini api key , that helps to process the document and also helpful in answering answers of the question 
